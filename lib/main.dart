@@ -1,25 +1,25 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_projects/core/line_chart.dart';
-import 'package:flutter_projects/views/add_new_card.dart';
-import 'package:flutter_projects/views/budget_page.dart';
-import 'package:flutter_projects/views/card_page.dart';
-import 'package:flutter_projects/views/get_started_signing_page.dart';
-import 'package:flutter_projects/views/help_home_page.dart';
-import 'package:flutter_projects/views/history_homepage.dart';
-import 'package:flutter_projects/views/filter_history_page.dart';
-import 'package:flutter_projects/views/homepage.dart';
-import 'package:flutter_projects/views/login_with_pin_page.dart';
-import 'package:flutter_projects/views/menu_home_page.dart';
-import 'package:flutter_projects/views/new_payment_homepage.dart';
+// import 'package:flutter_projects/core/line_chart.dart';
+// import 'package:flutter_projects/views/add_new_card.dart';
+// import 'package:flutter_projects/views/budget_page.dart';
+// import 'package:flutter_projects/views/card_page.dart';
+// import 'package:flutter_projects/views/get_started_signing_page.dart';
+// import 'package:flutter_projects/views/help_home_page.dart';
+// import 'package:flutter_projects/views/history_homepage.dart';
+// import 'package:flutter_projects/views/filter_history_page.dart';
+// import 'package:flutter_projects/views/homepage.dart';
+// import 'package:flutter_projects/views/login_with_pin_page.dart';
+// import 'package:flutter_projects/views/menu_home_page.dart';
+// import 'package:flutter_projects/views/new_payment_homepage.dart';
 import 'package:flutter_projects/views/onboarding_page.dart';
-import 'package:flutter_projects/views/otp_varification_page.dart';
-import 'package:flutter_projects/views/profile_homepage.dart';
-import 'package:flutter_projects/views/report_expenses_page.dart';
-import 'package:flutter_projects/views/scan_and_pay_homepage.dart';
-import 'package:flutter_projects/views/send_money_home.dart';
+// import 'package:flutter_projects/views/otp_varification_page.dart';
+// import 'package:flutter_projects/views/profile_homepage.dart';
+// import 'package:flutter_projects/views/report_expenses_page.dart';
+// import 'package:flutter_projects/views/scan_and_pay_homepage.dart';
+// import 'package:flutter_projects/views/send_money_home.dart';
 import 'package:get/get.dart';
 
-import 'views/add_bank_account_page.dart';
+// import 'views/add_bank_account_page.dart';
 
 void main() {
   runApp(MyApp());
